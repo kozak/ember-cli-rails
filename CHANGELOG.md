@@ -1,6 +1,7 @@
 master
 ------
 
+* Raise build errors for `render_ember_app` failures.
 * Use latest EmberCLI-generated asset files. [#316]
 * Delete previous build output on application boot instead of on process exit.
   [#308]
